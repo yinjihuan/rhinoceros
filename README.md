@@ -7,3 +7,5 @@
 
 # 微信公众号
 
+我整理了一份很全的学习资料，感兴趣的可以微信搜索「**猿天地**」，回复关键字 「**学习资料**」获取我整理好了的 Spring Cloud，Spring Cloud Alibaba，Sharding-JDBC 分库分表，任务调度框架 XXL-JOB，MongoDB，爬虫等相关资料。
+
